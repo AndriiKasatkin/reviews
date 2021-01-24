@@ -1,9 +1,8 @@
+import React from 'react'
+import Review from './Review'
+
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">React app</header>
-    </div>
-  )
+  return <h2>reviews project setup</h2>
 }
 
 export default App
